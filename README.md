@@ -1,7 +1,7 @@
 # Security Agents Working Shifts Problem
 
 
-# About The Problem
+## About The Problem
 This problem has been adapted from a competition organized by the faculty of science at my university.
 
 It serves as an excellent opportunity to explore a new programming language, as it encompasses various fundamental aspects of programming, such as:
@@ -17,12 +17,12 @@ To access solutions, navigate to the "solutions" directory, where you'll find su
 
 Happy coding!
 
-# The Problem
+## The Problem
 At the Faculty of Sciences, there are 20 security agents numbered from 1 to 20.
 
 Out of these, 3 agents work during the night shift, while 5 agents work during the day.
 
-For an agent working a night shift, there's a rule that they won't work for the following 2 days and 2 nights. For instance, if an agent works on Sunday night, they won't work all day on Monday and Tuesday, returning to work on Wednesday.
+For an agent working a night shift, there's a rule that they won't work for the following 2 days and 2 nights. For instance, if an agent works on Sunday night, they won't work all day on Monday Tuesday, returning to work on Wednesday.
 
 Similarly, an agent working during the day won't be assigned to the night shift on the same day. For instance, if an agent worked during the day on Sunday, they won't work the night shift on Sunday.
 
