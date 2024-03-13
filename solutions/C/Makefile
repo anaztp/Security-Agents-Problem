@@ -1,5 +1,5 @@
 run: 
-	cc -o main main.c
+	cc -o main.out main.c
 	./main
 
 // Uses The GNU Debugger (gdb) for debugging
